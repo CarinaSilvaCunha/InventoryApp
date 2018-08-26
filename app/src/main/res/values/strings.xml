@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Inventory App (v1)</string>
+    <!-- Book genre's -->
+    <string name="genre_science_fiction">Science Fiction</string>
+    <string name="genre_drama">Drama</string>
+    <string name="genre_romance">Romance</string>
+    <string name="genre_horror">Horror</string>
+    <string name="genre_self_help">Self Help</string>
+    <string name="genre_travel">Travel</string>
+    <string name="genre_not_available">N/A</string>
+
+    <string name="bookstore">This is a bookstore app!</string>
+</resources>
